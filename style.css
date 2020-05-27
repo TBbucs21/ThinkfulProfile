@@ -1,16 +1,16 @@
 body {
   margin: 0;
-  background-color: #e3e1db;
+  background-color: #e6f0e6;
 }
 
 header {
 	height: 140px;
-	background-color: #403933;
+	background-color: #000;
 }
 
 footer {
 	height: 84px;
-	background-color: #403933;
+	background-color: #000;
 }
 
 .wrapper {
@@ -66,10 +66,10 @@ a {
 	text-decoration: none;	
 }
 
-a:link { color: #38786a; }
-a:visited { color: #38786a; }
-a:hover { color: #403933; }
-a:active { color: #403933; }
+a:link { color: #000; }
+a:visited { color: #000; }
+a:hover { color: #000; }
+a:active { color: #000; }
 
 
 a:hover {
@@ -80,15 +80,15 @@ footer p {
 	color: #fff;	
 	text-align: center;
 }
-footer a:link { color: #698378; }
-footer a:visited { color: #698378; }
-footer a:hover { color: #a4cdbc; }
-footer a:active { color: #a4cdbc; }
+footer a:link { color: #000; }
+footer a:visited { color: #000; }
+footer a:hover { color: #fff; }
+footer a:active { color: #fff; }
 
 
 /* -------  Elements ------- */
 
-img, iframe { border-radius: 8px;} 
+img, iframe { border-radius: 10px;} 
 
 iframe { border: 1px solid #403933;}
 
